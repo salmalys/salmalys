@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋,
 
 I am Salma Lahrach. AI Engineer specialized in Generative AI, Machine Learning, and Data Engineering.  
